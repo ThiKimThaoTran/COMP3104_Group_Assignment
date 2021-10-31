@@ -1,3 +1,0 @@
-This file will contain information about COMP 3104
-DevOps course:
-In COMP3104 DevOps Course, student will learn about procedures, practices and tools to shorten the development time and speed up provision of application and service to increase productivity. Student will learn about git hub, AWS, Travis CI, Docker, front end tooling and  end-to-end deployment processes. Therefore, they can motivate the bond between Development (Dev) and Operation (Ops) in a software company to provide optimal solutions quickly.
