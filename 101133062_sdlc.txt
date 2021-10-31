@@ -1,0 +1,5 @@
+DevOps aids the software development culture in many ways including
+promoting collaboration and communication, emphasizing on a common 
+goal instead of working with different objectives. This leads to
+more efficient development cycles, rapid error detection and a faster
+route to the business market.
