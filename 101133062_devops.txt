@@ -1,0 +1,6 @@
+DevOps bridges the gap between development and operation. 
+It aims to drastically reduce IT overhead, become more efficient
+at focusing on business results, remove manual tasks, improve
+collaboration across teams, enforce best security practices
+through automated, integrated testing tools.
+
