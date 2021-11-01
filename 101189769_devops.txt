@@ -1,0 +1,7 @@
+COMP 3104 DevOps
+
+DevOps combines software development and IT operations.
+DevOps practices effectively allow for a process predicted on ease to ship code to production servers,
+apply hot-fixes,catch errors before they produce some sort of unintended behaviour and keep transparency &
+communication heightened across all teams.
+
