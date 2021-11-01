@@ -1,0 +1,4 @@
+DevOps is a combination of software development (dev) with operations (ops) that aims to shorten the product development life cycle 
+by working together to automate the software product delivery process and change the system architecture. In this course, 
+I will learn aspects of software development, operations, automated build, test, and release software faster, more frequent, and more reliable. 
+Moreover, I will learn DevOps tools like Git, Jenkins, SVN, Docker and more.
