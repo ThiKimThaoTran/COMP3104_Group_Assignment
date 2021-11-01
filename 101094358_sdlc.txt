@@ -1,0 +1,14 @@
+The importance of learning DevOps Engineer in the software development cycle.
+
+    - Helps strengthen the link between development and operations teams. At the same time improve cross-functional working ability.
+
+    - Increase release rate regularly to improve product quickly and release features faster, as well as fix bugs in a timely manner, 
+    serve users, be relevant to the market, and easily adjust business performance.
+
+    - Take advantage of automation tools, reduce risk, reduce the failure rate, improve reliability.
+
+    - If there is an error, the product recovery time is faster.
+
+    - Easily manage complex or scalable systems, upgrade the environment more favourable.
+
+    - DevOps helps to migrate without sacrificing security because of configuration management policies, controls, and methods.
