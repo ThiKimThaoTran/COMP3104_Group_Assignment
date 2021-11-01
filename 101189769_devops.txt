@@ -5,3 +5,4 @@ DevOps practices effectively allow for a process predicted on ease to ship code 
 apply hot-fixes,catch errors before they produce some sort of unintended behaviour and keep transparency &
 communication heightened across all teams.
 
+COMP3104_Group_Assignment
