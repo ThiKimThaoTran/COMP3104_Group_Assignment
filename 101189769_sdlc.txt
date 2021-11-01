@@ -1,0 +1,7 @@
+The importance of learning DevOps Engineer in SDLC
+
+The SDLC can flag errors in software creation before it's been discovered in successful stages.
+DevOps teams work together to accelerate innovation and the deployment of higher-quality and
+more reliable software products and functionalities.
+DevOps combines cultural philosophies, practices, and tools that increases the ability to deliver applications and
+services at high velocity, evolving and improving products at a faster pace.
